@@ -1,3 +1,2 @@
 # cyberpunkish2
-
-here is the link https://holoavatar.github.io/cyberpunkish2/
+ https://holoavatar.github.io/cyberpunkish2/
